@@ -1,0 +1,12 @@
+# Raw and intermediate data stay out of Git (too large; link to the sources in the README)
+data/raw/
+data/staging/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+# Python virtual environment and Mac Finder files
+.venv/
+.DS_Store
+# Power BI local cache and settings (Power BI Desktop also writes its own .gitignore inside the .pbip folder)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf

@@ -1,0 +1,249 @@
+quarter,company,mode,metric,value,layout,source_file
+2025Q1,Tensor,not stated,vmt_passenger_service,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,vmt_zev,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,vmt_to_pickup,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,idle_hours,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,wav_fulfilled,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,wav_unfulfilled_unavailable,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,wav_declined_by_operator,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Tensor,not stated,passengers,0.0,legacy-xlsx,AutoX Technologies Inc CPUC AV TCP Data Report (01012025-03312025).xlsx
+2025Q1,Waymo,drivered,vmt_passenger_service,26470.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,vmt_zev,26470.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,vmt_to_pickup,68.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,idle_hours,11118.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,passengers,110.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,wav_requested,0.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,wav_unfulfilled_unavailable,0.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,wav_declined_by_operator,0.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,wav_fulfilled,0.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,drivered,trips_from_occupancy_list,47.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)Per-Trip Passenger Count Data.csv
+2025Q1,Waymo,drivered,passengers_from_occupancy_list,110.0,legacy-csv,PSG0038152_2025_02_Drivered AV Pilot Data Appendix (Q1 2025) (May 16)Per-Trip Passenger Count Data.csv
+2025Q1,Waymo,driverless,vmt_passenger_service,139436.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,vmt_zev,139436.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,vmt_to_pickup,4428.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,idle_hours,30293.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,passengers,13123.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,wav_requested,0.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,wav_unfulfilled_unavailable,0.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,wav_declined_by_operator,0.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,wav_fulfilled,0.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Fleetwide Data.csv
+2025Q1,Waymo,driverless,trips_from_occupancy_list,5405.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Per Trip Passenger Data.csv
+2025Q1,Waymo,driverless,passengers_from_occupancy_list,13123.0,legacy-csv,PSG0038152_2025_05_Driverless AV Pilot Data Appendix (Q1 2025) (May 16)-Per Trip Passenger Data.csv
+2025Q1,WeRide,drivered,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,drivered,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,vmt_passenger_service,112.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,vmt_zev,112.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,passengers,8.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,trips_from_occupancy_list,7.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,WeRide,driverless,passengers_from_occupancy_list,8.0,legacy-xlsx,WeRideCorp_ Quarterly_05.01.2025_Revised.xlsx
+2025Q1,Zoox,drivered,vmt_passenger_service,1.1,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,vmt_zev,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,vmt_to_pickup,0.2,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,idle_hours,4.93,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,wav_requested,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,wav_declined_by_operator,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,drivered,wav_fulfilled,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,vmt_passenger_service,7931.37,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,vmt_zev,7931.37,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,vmt_to_pickup,683.7700000000001,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,idle_hours,88.36,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,wav_requested,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,wav_declined_by_operator,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,wav_fulfilled,0.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,trips_from_occupancy_list,2121.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q1,Zoox,driverless,passengers_from_occupancy_list,3877.0,legacy-xlsx,Zoox Quarterly 5.1.2025.xlsx
+2025Q2,Tensor,not stated,vmt_passenger_service,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,vmt_zev,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,vmt_to_pickup,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,idle_hours,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,wav_fulfilled,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,wav_declined_by_operator,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Tensor,not stated,passengers,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012025 - 06302025).xlsx
+2025Q2,Waymo,drivered,vmt_passenger_service,807.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,vmt_zev,807.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,vmt_to_pickup,100.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,idle_hours,30.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,passengers,66.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,wav_requested,0.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,wav_unfulfilled_unavailable,0.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,wav_declined_by_operator,0.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,wav_fulfilled,0.0,legacy-csv,PSG0038152_2025_08_Fleetwide Data.csv
+2025Q2,Waymo,drivered,trips_from_occupancy_list,24.0,legacy-csv,PSG0038152_2025_08_Per-Trip Passenger Count Data.csv
+2025Q2,Waymo,drivered,passengers_from_occupancy_list,66.0,legacy-csv,PSG0038152_2025_08_Per-Trip Passenger Count Data.csv
+2025Q2,WeRide,drivered,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,drivered,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q2,WeRide,driverless,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_08.01.2025.xlsx
+2025Q3,Tensor,not stated,vmt_passenger_service,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,vmt_zev,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,vmt_to_pickup,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,idle_hours,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,wav_fulfilled,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,wav_declined_by_operator,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Tensor,not stated,passengers,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (07012025 - 09302025).xlsx
+2025Q3,Waymo,drivered,vmt_passenger_service,541.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,vmt_zev,541.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,vmt_to_pickup,93.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,idle_hours,0.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,passengers,58.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,wav_requested,0.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,wav_unfulfilled_unavailable,0.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,wav_declined_by_operator,0.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,wav_fulfilled,0.0,legacy-csv,PSG0038152_2025_11_AV_Fleetwide_Data.csv
+2025Q3,Waymo,drivered,trips_from_occupancy_list,28.0,legacy-csv,PSG0038152_2025_11_AV_Per_Trip_Passenger_Count_Data.csv
+2025Q3,Waymo,drivered,passengers_from_occupancy_list,58.0,legacy-csv,PSG0038152_2025_11_AV_Per_Trip_Passenger_Count_Data.csv
+2025Q3,WeRide,drivered,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,drivered,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q3,WeRide,driverless,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_11.1.2025.xlsx
+2025Q4,Tensor,not stated,vmt_passenger_service,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,vmt_zev,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,vmt_to_pickup,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,idle_hours,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,wav_fulfilled,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,wav_declined_by_operator,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Tensor,not stated,passengers,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (10012025 - 12312025).xlsx
+2025Q4,Waymo,drivered,vmt_passenger_service,3789.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,vmt_zev,3789.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,vmt_to_pickup,378.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,idle_hours,636.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,passengers,448.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,wav_requested,0.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,wav_unfulfilled_unavailable,0.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,wav_declined_by_operator,0.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,wav_fulfilled,0.0,legacy-csv,PSG0038152_2026_02_AV_Fleetwide Data.csv
+2025Q4,Waymo,drivered,trips_from_occupancy_list,168.0,legacy-csv,PSG0038152_2026_02_AV_Per-Trip Passenger Count Data.csv
+2025Q4,Waymo,drivered,passengers_from_occupancy_list,448.0,legacy-csv,PSG0038152_2026_02_AV_Per-Trip Passenger Count Data.csv
+2025Q4,WeRide,drivered,vmt_passenger_service,17.2,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,vmt_zev,17.2,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,passengers,2.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,driverless,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,trips_from_occupancy_list,2.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2025Q4,WeRide,drivered,passengers_from_occupancy_list,2.0,legacy-xlsx,WeRideCorp_ Quarterly_02.1.2026.xlsx
+2026Q1,Tensor,not stated,vmt_passenger_service,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,vmt_zev,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,vmt_to_pickup,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,idle_hours,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,wav_fulfilled,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,wav_declined_by_operator,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,Tensor,not stated,passengers,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx
+2026Q1,WeRide,drivered,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,drivered,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,vmt_passenger_service,129.9,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,vmt_zev,129.9,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,passengers,18.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,trips_from_occupancy_list,12.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q1,WeRide,driverless,passengers_from_occupancy_list,18.0,legacy-xlsx,WeRideCorp_ Quarterly_05.1.2026.xlsx
+2026Q2,Nuro,drivered,vmt_passenger_service,65.66,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,vmt_zev,65.66,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,vmt_to_pickup,65.66,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,idle_hours,0.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,passengers,27.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,wav_requested,0.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,wav_declined_by_operator,0.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,wav_fulfilled,0.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,trips_from_occupancy_list,14.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Nuro,drivered,passengers_from_occupancy_list,27.0,legacy-xlsx,Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx
+2026Q2,Tensor,not stated,vmt_passenger_service,105.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,vmt_zev,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,vmt_to_pickup,105.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,idle_hours,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,wav_fulfilled,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,wav_unfulfilled_unavailable,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,wav_declined_by_operator,0.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,Tensor,not stated,passengers,23.0,legacy-xlsx,Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx
+2026Q2,WeRide,drivered,vmt_passenger_service,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,vmt_zev,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,passengers,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,drivered,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,vmt_passenger_service,121.9,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,vmt_zev,121.9,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,vmt_to_pickup,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,idle_hours,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,passengers,22.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,wav_requested,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,wav_unfulfilled_unavailable,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,wav_declined_by_operator,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,wav_fulfilled,0.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,trips_from_occupancy_list,11.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx
+2026Q2,WeRide,driverless,passengers_from_occupancy_list,22.0,legacy-xlsx,WeRideCorp_ Quarterly_07.27.2026.xlsx

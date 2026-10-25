@@ -1,0 +1,844 @@
+year,month,month_start,state,county,road_type,crash_type,sgo_rule_version,crashes,injury_crashes,police_reported_crashes,serious_injury_crashes,airbag_crashes
+2026,6,2026-06-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,11,1,0,0,1
+2026,5,2026-05-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,5,0,1,0,1
+2026,5,2026-05-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,3,3,2,0,1
+2026,5,2026-05-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,2,0,1,0,0
+2026,5,2026-05-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Georgia,DeKalb,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Texas,Dallas,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,4,0,0,0,0
+2026,4,2026-04-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,5,0,1,0,0
+2026,4,2026-04-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,1,1,1,0,0
+2026,3,2026-03-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,6,0,1,0,0
+2026,3,2026-03-01,California,San Mateo,Freeway,V2V Head-on,Amendment 3,1,0,1,0,0
+2026,3,2026-03-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,4,0,1,0,0
+2026,3,2026-03-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,1,1,0,0,0
+2026,3,2026-03-01,Texas,Bexar,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,0
+2026,2,2026-02-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,Arizona,Maricopa,Freeway,Secondary Crash,Amendment 3,1,1,1,0,1
+2026,2,2026-02-01,California,San Mateo,Surface Street,Secondary Crash,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,3,0,0,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,2,1,1,0,0
+2025,12,2025-12-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,6,0,1,0,0
+2025,12,2025-12-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,San Mateo,Surface Street,Single Vehicle,Amendment 3,1,0,1,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,3,0,0,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,Motorcycle,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,California,San Mateo,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,2,0,2,0,0
+2025,9,2025-09-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,3,0,1,0,1
+2025,8,2025-08-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,3,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,2,1,0,0,0
+2025,6,2025-06-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,4,0,1,0,1
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,4,0,1,0,0
+2025,4,2025-04-01,Georgia,DeKalb,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,9,1,1,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,3,0,0,0,0
+2025,1,2025-01-01,Texas,Travis,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 2 or prior,1,1,1,1,1
+2024,12,2024-12-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,1,1,1,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,Pedestrian,Amendment 2 or prior,1,1,0,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,10,2024-10-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,5,0,1,0,0
+2024,10,2024-10-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 2 or prior,1,1,1,0,0
+2024,8,2024-08-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,0,0,0
+2024,8,2024-08-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,2,0,1,0,0
+2024,7,2024-07-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,2,1,1,0,0
+2024,5,2024-05-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2023,11,2023-11-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 2 or prior,1,1,1,1,0
+2023,10,2023-10-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,5,2023-05-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,0,0,0
+2023,5,2023-05-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2023,4,2023-04-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2022,11,2022-11-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,1,0,0
+2026,6,2026-06-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,3,0,1,0,0
+2026,6,2026-06-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,11,4,3,0,1
+2026,5,2026-05-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,1
+2026,4,2026-04-01,Texas,Harris,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2026,4,2026-04-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,3,0,0,0,0
+2026,3,2026-03-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,4,0,0,0,0
+2026,3,2026-03-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2026,3,2026-03-01,Florida,Miami-Dade,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,3,0,1,0,0
+2025,12,2025-12-01,California,Santa Clara,Surface Street,Cyclist,Amendment 3,1,1,1,0,0
+2025,11,2025-11-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 3,2,1,1,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,2,0,1,0,0
+2025,11,2025-11-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,San Mateo,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2025,10,2025-10-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,4,0,0,0,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,Motorcycle,Amendment 3,2,1,2,0,0
+2025,8,2025-08-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,2,1,0,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,10,1,0,0,0
+2025,7,2025-07-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,Georgia,Fulton,Surface Street,V2V Head-on,Amendment 3,1,1,0,0,0
+2025,6,2025-06-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,9,0,1,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,Georgia,Fulton,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,5,2025-05-01,Texas,Travis,Surface Street,All Others,Amendment 2 or prior,2,1,0,0,0
+2025,5,2025-05-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,4,0,0,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,8,0,2,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,12,0,1,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,5,1,1,0,1
+2025,1,2025-01-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,California,San Mateo,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,3,0,2,0,1
+2024,7,2024-07-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,6,2024-06-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,5,1,1,0,0
+2024,1,2024-01-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,1,0,0
+2023,10,2023-10-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,1,1,0,0
+2023,10,2023-10-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2022,8,2022-08-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2021,9,2021-09-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,Texas,Harris,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,6,2026-06-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,3,0,0,0,0
+2026,5,2026-05-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,3,0,1,0,1
+2026,5,2026-05-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Tennessee,Davidson,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,San Mateo,Surface Street,V2V Backing,Amendment 3,1,0,1,0,0
+2026,4,2026-04-01,Florida,Orange,Surface Street,V2V F2R,Amendment 3,2,0,1,0,0
+2026,4,2026-04-01,California,San Mateo,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,San Mateo,Freeway,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Arizona,Maricopa,Freeway,V2V F2R,Amendment 3,1,0,1,0,1
+2026,3,2026-03-01,California,San Francisco,Surface Street,Cyclist,Amendment 3,1,1,1,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,6,2,1,0,1
+2026,2,2026-02-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,2,0,1,0,1
+2025,12,2025-12-01,Georgia,Fulton,Surface Street,Single Vehicle,Amendment 3,1,0,1,0,0
+2025,12,2025-12-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 3,1,0,1,0,1
+2025,10,2025-10-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Texas,Travis,Surface Street,All Others,Amendment 3,2,0,0,0,0
+2025,8,2025-08-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,4,1,4,0,0
+2025,8,2025-08-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,3,2,2,0,0
+2025,6,2025-06-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2025,6,2025-06-01,California,Los Angeles,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,5,2025-05-01,Texas,Travis,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,15,0,0,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,5,1,2,0,1
+2025,5,2025-05-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,California,Los Angeles,Surface Street,Cyclist,Amendment 2 or prior,1,1,0,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,13,0,1,0,0
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,5,1,0,0,0
+2025,4,2025-04-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,5,0,1,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,2,0,0,0,0
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,4,2025-04-01,California,Los Angeles,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2025,4,2025-04-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,5,0,1,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 2 or prior,2,1,1,0,0
+2025,2,2025-02-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,3,0,0,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,14,0,3,0,0
+2024,12,2024-12-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,3,0,1,0,0
+2024,11,2024-11-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,1,0,0
+2024,10,2024-10-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,5,0,2,0,0
+2024,10,2024-10-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,6,0,2,0,0
+2024,10,2024-10-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 2 or prior,2,0,0,0,1
+2024,10,2024-10-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,3,0,0,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,1,0,0
+2024,8,2024-08-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,0,1,0,0
+2024,8,2024-08-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,6,0,0,0,0
+2024,4,2024-04-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,3,0,0,0,0
+2024,1,2024-01-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,2,0,1,0,0
+2023,12,2023-12-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2023,9,2023-09-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2023,8,2023-08-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,1,2,0,1
+2023,2,2023-02-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,4,0,0,0,0
+2026,6,2026-06-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,1,0,0
+2026,6,2026-06-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,2,0,2,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,Motorcycle,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,2,0,0,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,8,1,1,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,8,1,0,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,0
+2026,4,2026-04-01,Texas,Harris,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,10,0,1,0,0
+2026,3,2026-03-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2026,3,2026-03-01,California,Santa Clara,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,0
+2026,2,2026-02-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,3,0,1,0,0
+2026,2,2026-02-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,5,1,1,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,1,0,1,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 3,1,0,1,0,1
+2025,11,2025-11-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,4,0,1,0,0
+2025,11,2025-11-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 3,1,1,1,0,1
+2025,10,2025-10-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,5,0,0,0,0
+2025,10,2025-10-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,5,0,0,0,0
+2025,10,2025-10-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,3,0,1,0,0
+2025,10,2025-10-01,Texas,Travis,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,3,0,0,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,0
+2025,9,2025-09-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,3,0,0,0,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,7,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,1,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,Pedestrian,Amendment 2 or prior,3,1,0,0,0
+2025,5,2025-05-01,California,Los Angeles,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,5,0,2,0,0
+2025,4,2025-04-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,5,0,0,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,1
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,1,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,2,0,0,0,0
+2024,10,2024-10-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,2,0,0,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,2,0,0,0,0
+2024,7,2024-07-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,2,1,1,0,1
+2024,7,2024-07-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,1,0,1
+2024,3,2024-03-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2024,1,2024-01-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2023,12,2023-12-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2023,9,2023-09-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2023,9,2023-09-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2023,7,2023-07-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,1,0,0
+2023,5,2023-05-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,1,0,0,0,0
+2023,4,2023-04-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,0,0,0
+2026,6,2026-06-01,Georgia,Fulton,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,2,0,1,0,0
+2026,5,2026-05-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Florida,Miami-Dade,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,2,0,0,0,0
+2026,3,2026-03-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2026,3,2026-03-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,3,1,2,0,0
+2026,3,2026-03-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,0
+2026,2,2026-02-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,3,0,1,0,0
+2026,2,2026-02-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,2,0,1,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,3,0,1,0,0
+2026,1,2026-01-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,7,2,0,0,1
+2026,1,2026-01-01,Texas,Travis,Surface Street,All Others,Amendment 3,1,0,1,0,0
+2025,12,2025-12-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,6,0,0,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,12,1,2,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,0
+2025,11,2025-11-01,California,San Mateo,Surface Street,V2V Backing,Amendment 3,1,0,1,0,0
+2025,9,2025-09-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,5,0,0,0,0
+2025,8,2025-08-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,2,0,1,0,0
+2025,8,2025-08-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,California,San Francisco,Surface Street,Motorcycle,Amendment 3,2,1,1,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,3,0,1,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,Pedestrian,Amendment 3,1,1,0,0,0
+2025,7,2025-07-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,2,1,1,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,5,0,1,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,Pedestrian,Amendment 2 or prior,1,0,1,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,7,1,1,0,1
+2025,3,2025-03-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,California,San Mateo,Surface Street,V2V Intersection,Amendment 2 or prior,1,1,1,0,1
+2025,2,2025-02-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,7,0,3,0,0
+2025,2,2025-02-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,6,0,0,0,0
+2024,11,2024-11-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,3,0,1,0,1
+2024,11,2024-11-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,11,0,1,0,1
+2024,11,2024-11-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,1,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,Cyclist,Amendment 2 or prior,1,1,0,0,0
+2024,10,2024-10-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,10,2024-10-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,4,0,1,0,0
+2024,4,2024-04-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,1,0,0,0
+2024,2,2024-02-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,1,1,0,0,0
+2023,12,2023-12-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,5,1,3,0,0
+2023,11,2023-11-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,1,0,0
+2023,8,2023-08-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2023,7,2023-07-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,3,2023-03-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,1,2023-01-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,3,0,0,0,0
+2026,6,2026-06-01,Florida,Miami-Dade,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,6,0,1,0,1
+2026,5,2026-05-01,Florida,Miami-Dade,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Tennessee,Davidson,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Texas,Harris,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Georgia,Fulton,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,2,0,1,0,0
+2026,3,2026-03-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,5,0,1,0,0
+2026,3,2026-03-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Texas,Dallas,Surface Street,V2V F2R,Amendment 3,1,0,0,0,1
+2026,2,2026-02-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,7,1,1,0,0
+2026,2,2026-02-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,3,0,1,0,0
+2026,1,2026-01-01,California,Santa Clara,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,3,2,3,0,3
+2026,1,2026-01-01,California,Los Angeles,Surface Street,Pedestrian,Amendment 3,1,1,1,0,0
+2026,1,2026-01-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,1
+2026,1,2026-01-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,San Francisco,Surface Street,Cyclist,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,0
+2025,12,2025-12-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,1,0,1,0,0
+2025,11,2025-11-01,Texas,Travis,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,3,1,2,0,0
+2025,8,2025-08-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2025,7,2025-07-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,1,1,1,0,0
+2025,6,2025-06-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,4,0,2,0,1
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,5,1,1,0,0
+2025,3,2025-03-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,5,1,0,0,0
+2024,12,2024-12-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,4,0,0,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,5,0,1,0,0
+2024,11,2024-11-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,2,0,0,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,11,0,2,0,0
+2024,9,2024-09-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,0,0,0
+2024,8,2024-08-01,California,San Mateo,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,3,0,0,0,0
+2024,4,2024-04-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,3,2024-03-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2023,12,2023-12-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2023,11,2023-11-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,1,0,0
+2023,8,2023-08-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,8,2023-08-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2023,8,2023-08-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,5,2023-05-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2023,2,2023-02-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,2,0,0,0,0
+2026,6,2026-06-01,Florida,Miami-Dade,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,6,0,0,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,California,San Mateo,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,3,0,0,0,0
+2026,4,2026-04-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,4,0,0,0,0
+2026,4,2026-04-01,Texas,Bexar,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Georgia,Fulton,Surface Street,V2V Intersection,Amendment 3,3,1,2,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Georgia,Fulton,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,Florida,Orange,Surface Street,V2V F2R,Amendment 3,2,0,1,0,0
+2026,2,2026-02-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2026,2,2026-02-01,Tennessee,Davidson,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2026,2,2026-02-01,Georgia,Fulton,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,0
+2026,2,2026-02-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,11,2,3,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,2,0,1,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,All Others,Amendment 3,2,0,1,0,0
+2025,9,2025-09-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2025,9,2025-09-01,Georgia,Fulton,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,1,0,0,0,1
+2025,8,2025-08-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,2,1,1,0,0
+2025,7,2025-07-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2025,7,2025-07-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2025,7,2025-07-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,1,0,1,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,4,0,1,0,1
+2025,6,2025-06-01,California,San Francisco,Surface Street,Cyclist,Amendment 3,1,1,1,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 2 or prior,3,0,2,0,1
+2025,5,2025-05-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,3,1,1,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,1,0,0
+2025,3,2025-03-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,All Others,Amendment 2 or prior,2,0,0,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,7,1,0,0,0
+2025,1,2025-01-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,9,0,1,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,All Others,Amendment 2 or prior,2,1,0,0,0
+2024,10,2024-10-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,2,0,1,0,1
+2024,7,2024-07-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,2,0,0,0,0
+2024,6,2024-06-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2024,6,2024-06-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,1,1,1,0,0
+2024,3,2024-03-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2023,10,2023-10-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2023,2,2023-02-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2022,12,2022-12-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,Pedestrian,Amendment 3,2,1,1,0,0
+2026,6,2026-06-01,Florida,Miami-Dade,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Arizona,Maricopa,Surface Street,All Others,Amendment 3,3,0,0,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,3,2,2,0,1
+2026,3,2026-03-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,7,0,1,0,0
+2026,3,2026-03-01,Texas,Dallas,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Texas,Bexar,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,Texas,Harris,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,6,0,2,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,2,1,1,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,6,1,1,0,1
+2025,12,2025-12-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,8,0,0,0,0
+2025,12,2025-12-01,California,San Mateo,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,2,1,0,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 3,1,0,1,0,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,5,0,1,0,0
+2025,9,2025-09-01,Georgia,Fulton,Surface Street,Secondary Crash,Amendment 3,1,1,1,0,1
+2025,9,2025-09-01,California,Los Angeles,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Arizona,Maricopa,Surface Street,Motorcycle,Amendment 3,1,1,1,1,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,2,0,1,0,0
+2025,8,2025-08-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,5,1,0,0,0
+2025,8,2025-08-01,California,San Francisco,Surface Street,All Others,Amendment 3,2,0,0,0,0
+2025,8,2025-08-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,3,0,0,0,0
+2025,7,2025-07-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,5,1,2,0,0
+2025,6,2025-06-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2025,6,2025-06-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,0,1,0,1
+2025,6,2025-06-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,4,2025-04-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,5,1,2,0,0
+2025,4,2025-04-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,4,0,0,0,0
+2025,3,2025-03-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,3,0,0,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,0,0,0
+2025,3,2025-03-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,California,San Mateo,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,1,0,0
+2025,2,2025-02-01,Texas,Travis,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,3,0,0,0,0
+2025,1,2025-01-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,1,0,1,0,0
+2024,12,2024-12-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,5,0,0,0,0
+2024,10,2024-10-01,Texas,Travis,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,1,1,0,0,0
+2024,7,2024-07-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,2,2,2,0,1
+2024,5,2024-05-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,1,0,1
+2024,4,2024-04-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,3,2024-03-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,2,2024-02-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,1,0,0
+2023,12,2023-12-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 2 or prior,2,1,2,0,0
+2023,9,2023-09-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,2,0,1,0,0
+2023,8,2023-08-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2023,3,2023-03-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2026,6,2026-06-01,Florida,Miami-Dade,Surface Street,V2V Lateral,Amendment 3,1,0,1,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,Motorcycle,Amendment 3,1,1,1,0,0
+2026,5,2026-05-01,California,Santa Clara,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Georgia,DeKalb,Surface Street,Motorcycle,Amendment 3,1,1,1,0,0
+2026,4,2026-04-01,California,Los Angeles,Freeway,V2V F2R,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,2,0,2,0,0
+2026,3,2026-03-01,Texas,Dallas,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,California,Santa Clara,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Texas,Dallas,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,4,0,0,0,0
+2026,2,2026-02-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 3,2,0,0,0,0
+2026,1,2026-01-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,4,1,1,0,0
+2026,1,2026-01-01,Texas,Travis,Surface Street,Secondary Crash,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Freeway,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,3,2,1,0,0
+2025,12,2025-12-01,California,Santa Clara,Surface Street,V2V Backing,Amendment 3,2,0,1,0,0
+2025,12,2025-12-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,4,0,0,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,3,1,0,0,0
+2025,11,2025-11-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,1,1,1,0,0
+2025,10,2025-10-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,6,1,1,0,0
+2025,10,2025-10-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,6,0,1,0,0
+2025,10,2025-10-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2025,10,2025-10-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,2,0,1,0,0
+2025,9,2025-09-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,1,0,0
+2025,9,2025-09-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,3,0,3,0,0
+2025,9,2025-09-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,3,0,0,0,0
+2025,7,2025-07-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,8,1,3,0,1
+2025,7,2025-07-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,4,1,0,0,0
+2025,6,2025-06-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,5,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,5,0,0,0,0
+2025,6,2025-06-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,5,2025-05-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,0,0,0
+2025,4,2025-04-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,0,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,7,2,1,0,0
+2025,2,2025-02-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,4,0,0,0,0
+2025,2,2025-02-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,1,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,Motorcycle,Amendment 2 or prior,1,1,1,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,4,0,1,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,2,2,0,0
+2024,10,2024-10-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,6,2024-06-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,0,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2024,4,2024-04-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,4,2024-04-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,3,0,0,0,0
+2024,1,2024-01-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2022,8,2022-08-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2020,9,2020-09-01,Arizona,Maricopa,Surface Street,V2V F2R,Prior to SGO,1,0,1,0,1
+2026,6,2026-06-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2026,6,2026-06-01,Florida,Miami-Dade,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,1
+2026,6,2026-06-01,Tennessee,Davidson,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,6,2026-06-01,Georgia,Fulton,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,Florida,Miami-Dade,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2026,3,2026-03-01,California,San Mateo,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,7,0,0,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,6,1,2,0,1
+2026,1,2026-01-01,Texas,Harris,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2026,1,2026-01-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,4,0,1,0,0
+2026,1,2026-01-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,9,0,0,0,0
+2025,10,2025-10-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,2,1,0,0,0
+2025,10,2025-10-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,California,San Francisco,Surface Street,All Others,Amendment 3,2,0,0,0,0
+2025,10,2025-10-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,California,San Mateo,Surface Street,V2V F2R,Amendment 3,2,0,2,0,1
+2025,10,2025-10-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,California,San Mateo,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,Arizona,Maricopa,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2025,7,2025-07-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,7,2025-07-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,1,0,1,0,0
+2025,7,2025-07-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 3,2,0,2,0,0
+2025,6,2025-06-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,2,0,1,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,3,0,0,0,0
+2025,5,2025-05-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,8,0,1,0,0
+2025,5,2025-05-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,1
+2025,4,2025-04-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,6,0,1,0,0
+2025,3,2025-03-01,California,Santa Clara,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2025,3,2025-03-01,Texas,Travis,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,0,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,3,0,0,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,2,1,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,9,1,0,0,0
+2024,12,2024-12-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,6,0,0,0,0
+2024,10,2024-10-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,11,1,1,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,2,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,4,0,0,0,0
+2024,8,2024-08-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,4,0,0,0,0
+2024,6,2024-06-01,Arizona,Maricopa,Surface Street,Motorcycle,Amendment 2 or prior,1,0,1,0,0
+2024,5,2024-05-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,5,2024-05-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,2,2,2,0,0
+2024,3,2024-03-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,3,2024-03-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,1,0,0
+2024,2,2024-02-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,2,2024-02-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,1,1,1,0,0
+2024,1,2024-01-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,0
+2023,12,2023-12-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,1,1,1,0,0
+2023,9,2023-09-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,3,0,0,0,0
+2023,1,2023-01-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2021,10,2021-10-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,6,0,2,0,0
+2026,6,2026-06-01,Florida,Orange,Surface Street,Secondary Crash,Amendment 3,1,1,1,0,0
+2026,5,2026-05-01,California,San Mateo,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Texas,Harris,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,San Mateo,Freeway,V2V Lateral,Amendment 3,1,0,1,0,0
+2026,3,2026-03-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,3,1,1,0,0
+2026,3,2026-03-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,1,0,1,0,0
+2026,3,2026-03-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,California,Santa Clara,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 3,2,1,1,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,4,0,0,0,0
+2025,12,2025-12-01,Georgia,Fulton,Surface Street,V2V Intersection,Amendment 3,1,1,1,0,0
+2025,12,2025-12-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2025,11,2025-11-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,6,2,1,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 3,2,1,1,0,1
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2025,10,2025-10-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2025,10,2025-10-01,California,San Mateo,Surface Street,V2V Backing,Amendment 3,1,0,1,0,0
+2025,10,2025-10-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,1,1,1,0,0
+2025,9,2025-09-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,1,1,1,0,1
+2025,9,2025-09-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,3,1,1,0,0
+2025,8,2025-08-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,Texas,Travis,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,4,0,0,0,0
+2025,4,2025-04-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,1
+2025,3,2025-03-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,8,1,0,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2025,1,2025-01-01,Texas,Travis,Surface Street,V2V Backing,Amendment 2 or prior,1,0,1,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,1,0,0
+2024,9,2024-09-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,California,San Francisco,Surface Street,Motorcycle,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,6,2024-06-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,1,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,5,0,1,0,0
+2024,5,2024-05-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,4,0,0,0,0
+2024,2,2024-02-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,5,2,1,0,0
+2023,10,2023-10-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,2,0,0
+2023,7,2023-07-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,8,2,1,0,2
+2026,5,2026-05-01,Georgia,Fulton,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,8,2,2,0,1
+2026,3,2026-03-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,5,0,0,0,0
+2026,3,2026-03-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,9,2,2,0,2
+2026,3,2026-03-01,California,Santa Clara,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,3,2,2,0,0
+2026,1,2026-01-01,California,San Mateo,Surface Street,V2V Backing,Amendment 3,1,0,1,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,Motorcycle,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Georgia,Fulton,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,4,1,1,0,0
+2025,11,2025-11-01,Georgia,Fulton,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,Pedestrian,Amendment 3,1,1,1,0,0
+2025,10,2025-10-01,California,San Francisco,Freeway,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,9,2025-09-01,Arizona,Maricopa,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,3,0,0,0,0
+2025,6,2025-06-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,4,1,0,0,0
+2025,6,2025-06-01,Arizona,Maricopa,Surface Street,All Others,Amendment 3,2,0,1,0,0
+2025,6,2025-06-01,California,San Mateo,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,4,0,3,0,0
+2025,5,2025-05-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,3,0,0,0,0
+2025,3,2025-03-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 2 or prior,4,1,1,0,0
+2025,3,2025-03-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,8,0,0,0,0
+2025,3,2025-03-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 2 or prior,1,1,1,0,1
+2025,2,2025-02-01,California,Los Angeles,Surface Street,Pedestrian,Amendment 2 or prior,1,0,0,0,0
+2025,1,2025-01-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,5,1,0,0,2
+2024,12,2024-12-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,1
+2024,10,2024-10-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,5,0,2,0,0
+2024,10,2024-10-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,0,0,0
+2024,10,2024-10-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,9,1,0,0,0
+2024,6,2024-06-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,3,0,0,0,0
+2024,5,2024-05-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,2,2,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,3,0,0,0,0
+2023,9,2023-09-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,1,0,0
+2023,8,2023-08-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,1,1,1,0,0
+2023,7,2023-07-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,4,2023-04-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,Secondary Crash,Amendment 3,2,0,1,0,0
+2026,6,2026-06-01,California,San Mateo,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,3,0,0,0,0
+2026,5,2026-05-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 3,5,0,0,0,0
+2026,5,2026-05-01,Florida,Miami-Dade,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,5,2026-05-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,3,2,2,0,1
+2026,5,2026-05-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,4,0,0,0,0
+2026,4,2026-04-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,5,0,1,0,0
+2026,4,2026-04-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 3,6,0,0,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2026,4,2026-04-01,Texas,Bexar,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,California,San Francisco,Surface Street,All Others,Amendment 3,2,0,0,0,0
+2026,3,2026-03-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,6,2,4,0,2
+2026,3,2026-03-01,Texas,Harris,Surface Street,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,3,0,1,0,0
+2026,2,2026-02-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,4,0,0,0,0
+2026,2,2026-02-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,4,3,3,0,2
+2025,12,2025-12-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,3,0,1,0,0
+2025,12,2025-12-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,2,0,1,0,0
+2025,12,2025-12-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,California,San Francisco,Surface Street,Motorcycle,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2025,10,2025-10-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,6,1,2,0,0
+2025,10,2025-10-01,California,San Francisco,Surface Street,Motorcycle,Amendment 3,1,1,1,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,3,0,0,0,0
+2025,9,2025-09-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2025,9,2025-09-01,Georgia,Fulton,Surface Street,Cyclist,Amendment 3,1,1,1,0,0
+2025,8,2025-08-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2025,7,2025-07-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,2,0,1,0,0
+2025,5,2025-05-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,3,0,2,0,0
+2025,3,2025-03-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 2 or prior,2,2,2,0,2
+2025,2,2025-02-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,7,2,3,0,0
+2024,12,2024-12-01,Texas,Travis,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,6,0,0,0,0
+2024,6,2024-06-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,3,2024-03-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,1,0,0
+2023,10,2023-10-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,3,0,0,0,0
+2023,9,2023-09-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,1,0,1,0,0
+2023,8,2023-08-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2023,7,2023-07-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,1,1,0,0
+2026,6,2026-06-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 3,2,0,0,0,0
+2026,6,2026-06-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,5,2,2,0,1
+2026,6,2026-06-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,4,0,2,0,0
+2026,6,2026-06-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,1,0,1,0,0
+2026,5,2026-05-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,Texas,Dallas,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Texas,Travis,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2026,4,2026-04-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,2,0,0,0,1
+2026,3,2026-03-01,Texas,Travis,Surface Street,V2V Head-on,Amendment 3,2,0,0,0,0
+2026,3,2026-03-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,5,1,2,0,1
+2026,3,2026-03-01,Arizona,Maricopa,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2026,2,2026-02-01,California,Los Angeles,Surface Street,Secondary Crash,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Freeway,V2V Lateral,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2025,12,2025-12-01,California,San Francisco,Surface Street,V2V F2R,Amendment 3,6,1,2,0,0
+2025,12,2025-12-01,Texas,Travis,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,1
+2025,11,2025-11-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,7,0,1,0,0
+2025,11,2025-11-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 3,4,0,3,0,0
+2025,11,2025-11-01,Texas,Travis,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,Georgia,DeKalb,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,California,San Mateo,Surface Street,All Others,Amendment 3,1,0,1,0,0
+2025,9,2025-09-01,Texas,Travis,Surface Street,V2V Intersection,Amendment 3,1,0,1,0,0
+2025,7,2025-07-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 3,3,0,1,0,0
+2025,6,2025-06-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,5,2025-05-01,Georgia,Fulton,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2025,5,2025-05-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,3,0,0,0,0
+2025,4,2025-04-01,Texas,Travis,Surface Street,V2V F2R,Amendment 2 or prior,3,0,0,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,4,0,1,0,1
+2024,12,2024-12-01,Texas,Travis,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,Pedestrian,Amendment 2 or prior,1,1,1,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2024,10,2024-10-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,1,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,3,0,0,0,0
+2024,8,2024-08-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,8,2024-08-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2024,7,2024-07-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,1,0,1,0,0
+2024,7,2024-07-01,California,Los Angeles,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,1,0,0
+2024,6,2024-06-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,4,0,2,0,1
+2024,6,2024-06-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2024,6,2024-06-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2023,9,2023-09-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,1,0,0
+2023,6,2023-06-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,3,0,0,0,0
+2023,4,2023-04-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,1,0,0,0,0
+2023,1,2023-01-01,Arizona,Maricopa,Surface Street,Motorcycle,Amendment 2 or prior,1,1,0,0,0
+2026,6,2026-06-01,Georgia,Fulton,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,6,2026-06-01,Florida,Miami-Dade,Surface Street,V2V F2R,Amendment 3,1,0,1,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,V2V Backing,Amendment 3,4,0,1,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,2,1,1,0,0
+2026,5,2026-05-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,3,0,0,0,0
+2026,5,2026-05-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,4,0,0,0,0
+2026,4,2026-04-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 3,2,0,0,0,0
+2026,4,2026-04-01,Florida,Miami-Dade,Surface Street,V2V F2R,Amendment 3,1,0,1,0,0
+2026,4,2026-04-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,California,Santa Clara,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Georgia,Fulton,Surface Street,V2V Head-on,Amendment 3,1,0,0,0,0
+2026,3,2026-03-01,Florida,Orange,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 3,5,0,0,0,1
+2026,1,2026-01-01,California,San Francisco,Surface Street,Single Vehicle,Amendment 3,2,0,0,0,0
+2025,12,2025-12-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 3,9,1,0,0,0
+2025,12,2025-12-01,Texas,Travis,Surface Street,V2V F2R,Amendment 3,4,1,1,0,1
+2025,12,2025-12-01,California,Los Angeles,Surface Street,Cyclist,Amendment 3,1,0,0,0,0
+2025,11,2025-11-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,10,2025-10-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,5,1,3,0,0
+2025,9,2025-09-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 3,1,0,0,0,0
+2025,8,2025-08-01,Georgia,Fulton,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,7,2025-07-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2025,7,2025-07-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,2,1,2,0,1
+2025,6,2025-06-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2025,6,2025-06-01,Texas,Travis,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,5,2025-05-01,California,San Mateo,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,4,2025-04-01,Texas,Travis,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2025,3,2025-03-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,3,0,2,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,5,0,0,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2025,1,2025-01-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,4,0,2,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,12,2024-12-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,5,1,1,0,0
+2024,12,2024-12-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,3,0,0,0,0
+2024,11,2024-11-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,2,0,0,0,0
+2024,10,2024-10-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,9,2024-09-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,4,0,1,0,0
+2024,9,2024-09-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,1,0,0
+2024,8,2024-08-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,2,0,0,0,0
+2024,7,2024-07-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,5,0,0,0,0
+2024,6,2024-06-01,California,San Francisco,Surface Street,V2V Lateral,Amendment 2 or prior,5,0,1,0,0
+2024,5,2024-05-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,5,0,3,0,0
+2024,5,2024-05-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2024,4,2024-04-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,3,2024-03-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,3,1,1,0,0
+2024,2,2024-02-01,Arizona,Maricopa,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,2,2024-02-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2023,12,2023-12-01,Arizona,Maricopa,Surface Street,V2V Backing,Amendment 2 or prior,3,0,0,0,0
+2023,10,2023-10-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2023,6,2023-06-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2021,10,2021-10-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,1,0,0
+2026,6,2026-06-01,California,Los Angeles,Surface Street,V2V Intersection,Amendment 3,6,0,1,0,0
+2026,6,2026-06-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 3,2,0,0,0,0
+2026,6,2026-06-01,California,San Francisco,Surface Street,All Others,Amendment 3,2,0,0,0,0
+2026,5,2026-05-01,California,Los Angeles,Surface Street,All Others,Amendment 3,4,0,0,0,0
+2026,5,2026-05-01,California,San Mateo,Surface Street,All Others,Amendment 3,1,0,1,0,0
+2026,5,2026-05-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,1,1,1,0,0
+2026,4,2026-04-01,Georgia,Fulton,Surface Street,V2V Lateral,Amendment 3,2,0,0,0,0
+2026,4,2026-04-01,Georgia,Fulton,Surface Street,V2V Backing,Amendment 3,1,0,0,0,0
+2026,4,2026-04-01,Florida,Miami-Dade,Surface Street,V2V Lateral,Amendment 3,1,0,1,0,0
+2026,4,2026-04-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 3,1,0,0,0,0
+2026,1,2026-01-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 3,9,1,2,0,0
+2026,1,2026-01-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 3,4,0,1,0,1
+2026,1,2026-01-01,California,San Francisco,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,12,2025-12-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 3,1,0,1,0,1
+2025,11,2025-11-01,California,Santa Clara,Surface Street,V2V F2R,Amendment 3,1,1,0,0,0
+2025,8,2025-08-01,California,Los Angeles,Surface Street,All Others,Amendment 3,1,0,0,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,Cyclist,Amendment 2 or prior,3,1,1,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,2,1,1,0,1
+2025,2,2025-02-01,Texas,Travis,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2025,2,2025-02-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,8,0,0,0,0
+2025,1,2025-01-01,California,San Francisco,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,1,0,0
+2025,1,2025-01-01,California,Los Angeles,Surface Street,All Others,Amendment 2 or prior,2,1,1,0,0
+2024,12,2024-12-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2024,11,2024-11-01,California,Los Angeles,Surface Street,V2V Lateral,Amendment 2 or prior,3,0,0,0,0
+2024,11,2024-11-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2024,11,2024-11-01,Texas,Travis,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,10,2024-10-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,10,2024-10-01,Arizona,Maricopa,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,1,0,0
+2024,10,2024-10-01,California,San Mateo,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,V2V Backing,Amendment 2 or prior,2,0,0,0,0
+2024,9,2024-09-01,California,San Francisco,Surface Street,All Others,Amendment 2 or prior,1,0,0,0,0
+2024,7,2024-07-01,California,Los Angeles,Surface Street,V2V Head-on,Amendment 2 or prior,1,0,0,0,0
+2024,6,2024-06-01,California,Los Angeles,Surface Street,V2V F2R,Amendment 2 or prior,3,1,0,0,0
+2024,4,2024-04-01,Arizona,Maricopa,Surface Street,V2V F2R,Amendment 2 or prior,1,0,0,0,0
+2024,3,2024-03-01,California,San Francisco,Surface Street,V2V F2R,Amendment 2 or prior,4,1,1,0,0
+2024,3,2024-03-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,3,0,0,0,0
+2024,3,2024-03-01,Arizona,Maricopa,Surface Street,V2V Intersection,Amendment 2 or prior,2,1,2,0,1
+2024,2,2024-02-01,California,Los Angeles,Surface Street,Single Vehicle,Amendment 2 or prior,1,0,0,0,0
+2024,1,2024-01-01,Arizona,Maricopa,Surface Street,Secondary Crash,Amendment 2 or prior,1,0,1,0,0
+2023,12,2023-12-01,California,San Francisco,Surface Street,V2V Intersection,Amendment 2 or prior,1,0,0,0,0
+2023,11,2023-11-01,Arizona,Maricopa,Surface Street,Single Vehicle,Amendment 2 or prior,2,0,0,0,0
+2023,8,2023-08-01,Arizona,Maricopa,Surface Street,V2V Lateral,Amendment 2 or prior,1,0,0,0,0
+2021,5,2021-05-01,Arizona,Maricopa,Surface Street,V2V F2R,Prior to SGO,1,0,0,0,0

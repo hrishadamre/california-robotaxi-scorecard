@@ -1,0 +1,44 @@
+result,test,detail
+PASS,T1 trips reconcile: deployment driverless 2024Q4,trip files 541378 vs month files 541378.0
+PASS,T1 trips reconcile: deployment driverless 2025Q1,trip files 1818206 vs month files 1818206.0
+PASS,T1 trips reconcile: deployment driverless 2025Q2,trip files 2234912 vs month files 2234912.0
+PASS,T1 trips reconcile: deployment driverless 2025Q3,trip files 2676001 vs month files 2676001.0
+PASS,T1 trips reconcile: deployment driverless 2025Q4,trip files 3748532 vs month files 3748532.0
+PASS,T1 trips reconcile: deployment driverless 2026Q1,trip files 3905934 vs month files 3905934.0
+PASS,T1 trips reconcile: deployment driverless 2026Q2,trip files 4220075 vs month files 4220075.0
+PASS,T1 trips reconcile: pilot drivered 2026Q1,trip files 617 vs month files 617.0
+PASS,T1 trips reconcile: pilot driverless 2025Q2,trip files 6324 vs month files 6324.0
+PASS,T1 trips reconcile: pilot driverless 2025Q3,trip files 6980 vs month files 6980.0
+PASS,T1 trips reconcile: pilot driverless 2025Q4,trip files 6422 vs month files 6422.0
+PASS,T1 trips reconcile: pilot driverless 2026Q1,trip files 6373 vs month files 6373.0
+PASS,T1 trips reconcile: pilot driverless 2026Q2,trip files 34063 vs month files 34063.0
+WARN,T2 collisions two sources: deployment 2024Q4,incident flags 0 vs tract table 47.0
+WARN,T2 collisions two sources: deployment 2025Q1,incident flags 132 vs tract table 133.0
+WARN,T2 collisions two sources: deployment 2025Q2,incident flags 163 vs tract table 165.0
+WARN,T2 collisions two sources: deployment 2025Q3,incident flags 167 vs tract table 168.0
+PASS,T2 collisions two sources: deployment 2025Q4,incident flags 266 vs tract table 266.0
+WARN,T2 collisions two sources: deployment 2026Q1,incident flags 297 vs tract table 301.0
+WARN,T2 collisions two sources: deployment 2026Q2,incident flags 291 vs tract table 297.0
+WARN,T2 collisions two sources: pilot 2025Q2,incident flags 6 vs tract table 7.0
+WARN,T2 collisions two sources: pilot 2025Q3,incident flags 20 vs tract table 21.0
+PASS,T2 collisions two sources: pilot 2025Q4,incident flags 26 vs tract table 26.0
+PASS,T2 collisions two sources: pilot 2026Q1,incident flags 27 vs tract table 27.0
+PASS,T2 collisions two sources: pilot 2026Q2,incident flags 33 vs tract table 33.0
+WARN,T3 coverage: deployment 2024Q4,"month rows 1, trip groups 10, incident source rows 0"
+PASS,T3 coverage: deployment 2025Q1,"month rows 3, trip groups 11, incident source rows 2631227"
+PASS,T3 coverage: deployment 2025Q2,"month rows 3, trip groups 11, incident source rows 3151217"
+PASS,T3 coverage: deployment 2025Q3,"month rows 3, trip groups 13, incident source rows 3747946"
+PASS,T3 coverage: deployment 2025Q4,"month rows 3, trip groups 12, incident source rows 4496263"
+PASS,T3 coverage: deployment 2026Q1,"month rows 3, trip groups 14, incident source rows 4922695"
+PASS,T3 coverage: deployment 2026Q2,"month rows 3, trip groups 14, incident source rows 4888010"
+PASS,T4 no negative values in fact_service_month,0 rows with a negative value
+PASS,T5 fulfilled flag values,none unexpected
+WARN,T6 unfulfilled requests have a reason,5 unfulfilled requests without a reason
+PASS,"T7 federal crash months (CA, Dec 2024-Jun 2026)",19 of 19 months present
+PASS,T8 pilot metrics: Nuro,1 quarters: 2026Q2
+PASS,T8 pilot metrics: Tensor,"6 quarters: 2025Q1, 2025Q2, 2025Q3, 2025Q4, 2026Q1, 2026Q2"
+PASS,T8 pilot metrics: Waymo,"4 quarters: 2025Q1, 2025Q2, 2025Q3, 2025Q4"
+PASS,T8 pilot metrics: WeRide,"6 quarters: 2025Q1, 2025Q2, 2025Q3, 2025Q4, 2026Q1, 2026Q2"
+PASS,T8 pilot metrics: Zoox,1 quarters: 2025Q1
+PASS,T9 answer key: 2025Q4 collisions = 266,got 266
+PASS,"T9 answer key: 2026Q2 completed trips = 4,220,075",got 4220075.0
