@@ -9,4 +9,4 @@ __pycache__/
 .DS_Store
 # Power BI local cache and settings (Power BI Desktop also writes its own .gitignore inside the .pbip folder)
 **/.pbi/localSettings.json
-**/.pbi/cache.abf
+**/.pbi/cache.abfpowerbi/*.pbix
