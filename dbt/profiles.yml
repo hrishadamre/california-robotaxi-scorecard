@@ -1,0 +1,7 @@
+robotaxi:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/staging/av.duckdb
+      threads: 1

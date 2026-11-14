@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: cpuc_model
+    schema: main
+    tables:
+      - name: fact_trip_outcome_q
+        columns:
+          - name: fulfilled
+            tests:
+              - accepted_values:
+                  arguments:
+                    values: ["Y", "N", "REDACTED"]
+      - name: fact_incident_q
+      - name: fact_service_month
+      - name: fact_tract_q
+        columns:
+          - name: county_fips
+            tests:
+              - relationships:
+                  arguments:
+                    to: ref('dim_county')
+                    field: county_fips
+                  config:
+                    severity: warn

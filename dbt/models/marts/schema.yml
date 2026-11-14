@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: dim_county
+    columns:
+      - name: county_fips
+        tests:
+          - unique
+          - not_null
