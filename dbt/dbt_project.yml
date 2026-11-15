@@ -4,6 +4,7 @@ config-version: 2
 profile: robotaxi
 
 model-paths: ["models"]
+macro-paths: ["macros"]
 seed-paths: ["../data/reference"]
 test-paths: ["tests"]
 target-path: "target"
@@ -13,8 +14,10 @@ models:
   robotaxi:
     staging:
       +materialized: view
+      +schema: staging
     marts:
       +materialized: table
+      +schema: marts
 
 seeds:
   robotaxi:

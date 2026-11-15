@@ -3,6 +3,7 @@ version: 2
 sources:
   - name: cpuc_model
     schema: main
+    description: Tables built by the original Python step 03. Kept for the old-vs-new parity check.
     tables:
       - name: fact_trip_outcome_q
         columns:
@@ -23,3 +24,19 @@ sources:
                     field: county_fips
                   config:
                     severity: warn
+
+  - name: landed
+    schema: main
+    description: Raw files landed as text by step03a, with standard column names.
+    tables:
+      - name: raw_month
+      - name: raw_trips
+      - name: raw_incidents
+      - name: raw_incident_tract
+      - name: raw_service_area
+      - name: raw_pilot_month
+      - name: raw_pilot_metrics
+      - name: raw_waymo_federal
+      - name: raw_waymo_benchmark
+      - name: raw_waymo_rider_miles
+      - name: raw_manifest
