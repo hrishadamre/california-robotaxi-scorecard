@@ -22,9 +22,11 @@ directions (EXCEPT). Result: all 9 fact tables match (0 rows only in old,
 0 only in new). The exported CSVs contain the same rows as the v1 CSVs; only
 the row order changed (deterministic `ORDER BY ALL`).
 
-dbt build: 37 pass, 3 warn, 0 error. The 3 warnings are known data-source
-gaps (for example collision counts that differ between two CPUC sources),
-and they reproduce the warnings the v1 tests showed.
+dbt: 18 data tests (15 pass, 3 warn, 0 fail); all models and seeds build
+without error. The 3 warnings are known data-source gaps (for example
+collision counts that differ between two CPUC sources) and correspond to the
+warnings the v1 tests showed. v1 reported 43 checks because some were counted
+per quarter or per table; the dbt count is not a like-for-like comparison.
 
 ## What I learned
 - Quarters with an empty incident file must stay in the data with a blank
