@@ -79,6 +79,7 @@ def main():
     if args.engine in ("dbt", "both"):
         py("step03a_land_raw.py")
         run_dbt()
+        py("dbt_results_to_csv.py")
         if args.engine == "both":
             py("parity_check.py")
         py("export_marts.py")
