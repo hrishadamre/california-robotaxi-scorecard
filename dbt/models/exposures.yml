@@ -1,0 +1,23 @@
+version: 2
+
+exposures:
+  - name: powerbi_scorecard
+    label: Autonomy in California scorecard (Power BI)
+    type: dashboard
+    maturity: low
+    description: >
+      Power BI report on California robotaxi service and safety. Status: in progress.
+      Reads the fact tables as CSV files.
+    owner:
+      name: Hrishad Amre
+    depends_on:
+      - ref('fact_service_month')
+      - ref('fact_trip_outcome_q')
+      - ref('fact_incident_q')
+      - ref('fact_tract_q')
+      - ref('fact_service_area_m')
+      - ref('fact_pilot_metrics_q')
+      - ref('fact_federal_crash_m')
+      - ref('fact_benchmark')
+      - ref('fact_rider_only_miles')
+      - ref('dim_county')
