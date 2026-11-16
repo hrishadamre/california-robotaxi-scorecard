@@ -12,6 +12,10 @@ models:
 
   - name: fact_service_month
     description: Monthly service totals per company, program and mode (trips, miles, passengers).
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [company, program, mode, month_start]
     columns:
       - name: quarter
         tests: [not_null]
@@ -22,6 +26,10 @@ models:
 
   - name: fact_trip_outcome_q
     description: Ride requests per quarter by outcome and reason (one row = a distinct combination, requests = count).
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [quarter, company, program, mode, fulfilled, reason_unfulfilled, wav_requested, shared, fared]
     columns:
       - name: quarter
         tests: [not_null]
@@ -36,6 +44,10 @@ models:
 
   - name: fact_incident_q
     description: Collisions and complaints per quarter, counted from Y flags (never from row counts).
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [quarter, company, program, mode]
     columns:
       - name: quarter
         tests: [not_null]
@@ -44,6 +56,10 @@ models:
 
   - name: fact_tract_q
     description: Collisions by census tract and quarter.
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [quarter, company, program, mode, tract]
     columns:
       - name: company
         tests: [not_null]
@@ -59,21 +75,40 @@ models:
 
   - name: fact_service_area_m
     description: Census tracts in service each month.
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [company, program, mode, month_start, tract]
     columns:
       - name: company
         tests: [not_null]
 
   - name: fact_pilot_metrics_q
     description: Free-pilot program metrics in long format (one row per metric).
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [quarter, company, mode, metric]
     columns:
       - name: company
         tests: [not_null]
 
   - name: fact_federal_crash_m
     description: Federal crash reports from the Waymo Safety Impact hub, counted per month. Street text and ZIP codes are excluded on purpose.
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [month_start, state, county, road_type, crash_type, sgo_rule_version]
 
   - name: fact_benchmark
     description: Waymo vs human-driver benchmark. pct_difference holds reductions as negative numbers.
+    tests:
+      - unique_grain:
+          arguments:
+            columns: [outcome, benchmark_version, area, grouping_type, crash_group]
 
   - name: fact_rider_only_miles
     description: Rider-only miles by area, in millions.
+    columns:
+      - name: area
+        tests: [unique]
