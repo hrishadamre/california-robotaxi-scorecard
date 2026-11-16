@@ -17,11 +17,15 @@ models:
         tests: [not_null]
       - name: month_start
         tests: [not_null]
+      - name: company
+        tests: [not_null]
 
   - name: fact_trip_outcome_q
     description: Ride requests per quarter by outcome and reason (one row = a distinct combination, requests = count).
     columns:
       - name: quarter
+        tests: [not_null]
+      - name: company
         tests: [not_null]
       - name: fulfilled
         description: Y = completed, N = not completed, REDACTED = hidden by the filer.
@@ -35,10 +39,14 @@ models:
     columns:
       - name: quarter
         tests: [not_null]
+      - name: company
+        tests: [not_null]
 
   - name: fact_tract_q
     description: Collisions by census tract and quarter.
     columns:
+      - name: company
+        tests: [not_null]
       - name: county_fips
         description: First five digits of the tract code.
         tests:
@@ -51,6 +59,9 @@ models:
 
   - name: fact_service_area_m
     description: Census tracts in service each month.
+    columns:
+      - name: company
+        tests: [not_null]
 
   - name: fact_pilot_metrics_q
     description: Free-pilot program metrics in long format (one row per metric).
