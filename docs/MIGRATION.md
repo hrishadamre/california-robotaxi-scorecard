@@ -17,6 +17,8 @@ dbt (dbt Core + DuckDB) and kept the original for comparison.
 | Docs and lineage | none | `dbt docs`, image in `docs/dbt_lineage.png` |
 
 ## How I checked the migration
+Each fact table also has a grain test (a custom generic test, unique_grain),
+which fails if any combination of the grain columns appears twice.
 `pipeline/parity_check.py` compares each v2 table with the v1 table in both
 directions (EXCEPT). Result: all 9 fact tables match (0 rows only in old,
 0 only in new). The exported CSVs contain the same rows as the v1 CSVs; only
