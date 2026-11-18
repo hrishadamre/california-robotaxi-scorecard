@@ -34,6 +34,8 @@ raw zips (362 files, ~8 GB)
 
 ![dbt lineage](docs/dbt_lineage.png)
 
+[Browse the dbt docs](https://hrishadamre.github.io/california-robotaxi-scorecard/dbt/)
+
 | Layer | Tool | What it does |
 |---|---|---|
 | Extract and parse | Python | Unzips the quarterly files and parses the pilot-era workbooks |
@@ -79,7 +81,6 @@ Requires the DuckDB command-line tool and the raw CPUC zips in `data/raw/` (see 
 
 ## Roadmap
 - Power BI report: Overview, Safety, Service, Methods pages (in progress)
-- Publish the dbt docs site
 
 ## Limitations
 Reconciliation tests show the processing is internally consistent, not that the source filings are correct. Trip timestamps, locations and miles are redacted in the public files.
